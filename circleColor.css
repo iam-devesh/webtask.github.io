@@ -1,0 +1,31 @@
+    .blue-color {
+        color:blue;
+        cursor: pointer;
+    }
+     
+    .green-color {
+        color:green;
+        cursor: pointer;
+    }
+     
+    .teal-color {
+        color:teal;
+        cursor: pointer;
+    }
+     
+    .yellow-color {
+    color:yellow;
+    cursor: pointer;
+    }
+    
+    .red-color {
+        color:red;
+        cursor: pointer;
+    }
+    .dark-grey{
+        color: rgb(155, 163, 174);
+        cursor: pointer;
+    }
+    .dark-grey:hover{
+        box-shadow: 0px 1px 5px rgba(0, 0, 0,0.1);
+    }
