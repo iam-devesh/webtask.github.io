@@ -29,9 +29,9 @@
     font-size: 0.5em;
 }
 .weather-icon img{
-    margin-top: -1.6rem;
+    margin-top: -1.4rem;
     margin-left: -2.6rem;
-    margin-bottom:-2rem;
+    margin-bottom:-1.6rem;
 }
 .Second-container{
     display: flex;
