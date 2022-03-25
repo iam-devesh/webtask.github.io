@@ -48,11 +48,13 @@
             todoList.addEventListener("click", (e) => {
                  if (e.target.classList.contains("fa-minus-circle")) {
                   const targetedLi = e.target.parentNode.parentNode;
+                   targetedLi.style.cursor="pointer";
                   targetedLi.remove();
                 }
                 if (e.target.classList.contains("fa-check-circle")) {
                   const liSpan = e.target.parentNode.parentNode;
                   liSpan.style.textDecoration = "line-through";
+                  liSpan.style.cursor="pointer"
                   liSpan.style.opacity="0.45";
                 }
               });
