@@ -82,3 +82,6 @@ color:whitesmoke;
     position: absolute;
     top: 18%;
 }
+.time{
+    cursor:pointer;
+}
