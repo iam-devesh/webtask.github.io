@@ -43,6 +43,7 @@
 .temperature-value{
     font-size:1.5vw;
     color: #293251;
+    cursor:pointer;
 }
 .temperature-description p{
     padding: 8px;
